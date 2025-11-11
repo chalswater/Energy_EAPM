@@ -1,5 +1,5 @@
 # Energy-restricted EAPM
-The codes listed in this repository are used to reproduce the results reported in the paper titled: "The role of entanglement in energy-restricted communication and randomness generation": https://arxiv.org/abs/2510.27473
+The codes listed in this repository are used to reproduce the results reported in the paper titled: "_The role of entanglement in energy-restricted communication and randomness generation_": https://arxiv.org/abs/2510.27473
 
 The codes are structured as follows:
 
